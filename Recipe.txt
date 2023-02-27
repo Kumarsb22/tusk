@@ -4,3 +4,6 @@ welcome
 kheer
 mirchi
 h
+chicken
+
+pish fry
